@@ -1,0 +1,408 @@
+{
+    "HeaderData": [
+        {
+            "label": "Home",
+            "href": "/#Home"
+        },
+        {
+            "label": "Courses",
+            "href": "/#Courses"
+        },
+        {
+            "label": "Mentors",
+            "href": "/#mentors-section"
+        },
+        {
+            "label": "Testimonial",
+            "href": "/#testimonial-section"
+        },
+        {
+            "label": "Join",
+            "href": "/#join-section"
+        },
+        {
+            "label": "Contact Us",
+            "href": "/#contact"
+        }
+       
+    ],
+    "CourseData": [
+        {
+            "name": "Mobile Development"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Cloud Computing"
+        },
+        {
+            "name": "Cyber Security"
+        }
+    ],
+    "HourData": [
+        {
+            "name": "20hrs in a Month"
+        },
+        {
+            "name": "30hrs in a Month"
+        },
+        {
+            "name": "40hrs in a Month"
+        },
+        {
+            "name": "50hrs in a Month"
+        }
+    ],
+    "Companiesdata": [
+        {
+            "imgSrc": "/images/slickCompany/airbnb.svg"
+        },
+        {
+            "imgSrc": "/images/slickCompany/hubspot.svg"
+        },
+        {
+            "imgSrc": "/images/slickCompany/microsoft.svg"
+        },
+        {
+            "imgSrc": "/images/slickCompany/google.svg"
+        },
+        {
+            "imgSrc": "/images/slickCompany/walmart.svg"
+        },
+        {
+            "imgSrc": "/images/slickCompany/fedex.svg"
+        }
+    ],
+    "CourseDetailData": [
+        {
+            "course": "HTML, CSS, JS",
+            "imageSrc": "/images/courses/coursesOne.svg",
+            "profession": "HTML, CSS, Javascript Development",
+            "price": "9,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "Node.js",
+            "imageSrc": "/images/courses/coursesTwo.svg",
+            "profession": "Backend with Node.js and Express.js",
+            "price": "12,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "Database",
+            "imageSrc": "/images/courses/coursesThree.svg",
+            "profession": "Learn Mongodb with Mongoose",
+            "price": "8,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "React.js",
+            "imageSrc": "/images/courses/coursesFour.svg",
+            "profession": "Learn React with Redux toolkit",
+            "price": "9,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "Java Developer",
+            "imageSrc": "/images/courses/java1.svg",
+            "profession": "Java, Spring boot Developement",
+            "price": "12,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "Python Developer",
+            "imageSrc": "/images/courses/python.svg",
+            "profession": "Python with MySQL Developement",
+            "price": "12,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "PHP developer",
+            "imageSrc": "/images/courses/php.svg",
+            "profession": "Learn PHP with MySQL",
+            "price": "9,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": ".NET Developer",
+            "imageSrc": "/images/courses/dotnet.svg",
+            "profession": "Learn .NET with Microsoft SQL Server",
+            "price": "13,999",
+            "category": "webdevelopment"
+        },
+        {
+            "course": "React Native",
+            "imageSrc": "/images/courses/coursesOne.svg",
+            "profession": "Learn React Native with Node.js",
+            "price": "12,999",
+            "category": "mobiledevelopment"
+        },
+        {
+            "course": "Swift",
+            "imageSrc": "/images/courses/coursesThree.svg",
+            "profession": "Learn Swift from Scratch",
+            "price": "14,999",
+            "category": "mobiledevelopment"
+        },
+        {
+            "course": "Flutter",
+            "imageSrc": "/images/courses/coursesFour.svg",
+            "profession": "Flutter App Development",
+            "price": "14,999",
+            "category": "mobiledevelopment"
+        },
+        {
+            "course": "Onsen UI",
+            "imageSrc": "/images/courses/coursesTwo.svg",
+            "profession": "Learn Onsen Ui with HTML, CSS",
+            "price": "13,999",
+            "category": "mobiledevelopment"
+        },
+        {
+            "course": "Python with Data Science",
+            "imageSrc": "/images/courses/PythonwithDataScience.svg",
+            "profession": "Learn Python with Datascience",
+            "price": "14,999",
+            "category": "datascience"
+        },
+        {
+            "course": "TensorFlow",
+            "imageSrc": "/images/courses/coursesTwo.svg",
+            "profession": "Learn TensorFlow with SQL",
+            "price": "12,999",
+            "category": "datascience"
+        },
+        {
+            "course": "Python with Django",
+            "imageSrc": "/images/courses/coursesFour.svg",
+            "profession": "Learn Python with Dijango",
+            "price": "12,999",
+            "category": "datascience"
+        },
+        {
+            "course": "Data Analytics",
+            "imageSrc": "/images/courses/coursesOne.svg",
+            "profession": "Learn SQL, Excel, Python/R, Tableau, Power BI",
+            "price": "14,999",
+            "category": "datascience"
+        },
+        {
+            "course": "Data Scientist",
+            "imageSrc": "/images/courses/coursesThree.svg",
+            "profession": "Python/R, scikit-learn, TensorFlow, statistical modeling-9",
+            "price": "14,999",
+            "category": "datascience"
+        },
+        {
+            "course": "Machine Learning (ML) Engineer",
+            "imageSrc": "/images/courses/ML.svg",
+            "profession": "Python, Docker, MLflow, Kubernetes, cloud platforms (AWS, GCP, Azure",
+            "price": "13,999",
+            "category": "datascience"
+        },
+        {
+            "course": "Hardware and Networking",
+            "imageSrc": "/images/courses/HardwareandNetworking.svg",
+            "profession": "Learn Basics Hardware and Networking ",
+            "price": "9,999",
+            "category": "cloudcomputing"
+        },
+         {
+            "course": "CCNA",
+            "imageSrc": "/images/courses/CCNA.svg",
+            "profession": "Learn Cisco Certified Network Associate",
+            "price": "12,999",
+            "category": "cloudcomputing"
+        },
+        {
+            "course": "CCNP",
+            "imageSrc": "/images/courses/CCNP.svg",
+            "profession": "Learn Cisco Certified Network Professional",
+            "price": "16,999",
+            "category": "cloudcomputing"
+        },
+        {
+            "course": "AWS/Azure/GCD",
+            "imageSrc": "/images/courses/AWSAzureGCP.svg",
+            "profession": "Learn AWS, Microsoft Azure and Google Cloud Computing",
+            "price": "16,999",
+            "category": "cloudcomputing"
+        },
+       {
+        "course": "Infrastructure as a Service (IaaS)",
+        "imageSrc": "/images/courses/coursesThree.svg",
+        "profession": "Virtualized Computing, Storage, Networking",
+        "price": "14,999",
+        "category": "cloudcomputing"
+        },
+        {
+            "course": "Platform as a Service (PaaS)",
+            "imageSrc": "/images/courses/coursesOne.svg",
+            "profession": "Application Development & Deployment",
+            "price": "14,999",
+            "category": "cloudcomputing"
+        },
+        {
+            "course": "Software as a Service (SaaS)",
+            "imageSrc": "/images/courses/coursesTwo.svg",
+            "profession": "Ready-to-Use Software Applications",
+            "price": "14,999",
+            "category": "cloudcomputing"
+        },
+        {
+            "course": "Serverless / Functions as a Service (FaaS)",
+            "imageSrc": "/images/courses/coursesFour.svg",
+            "profession": "Event-Driven, Scalable Functions",
+            "price": "14,999",
+            "category": "cloudcomputing"
+        },
+        {
+            "course": "Containers as a Service (CaaS)",
+            "imageSrc": "/images/courses/CaaS.svg",
+            "profession": "Container Orchestration (e.g., Kubernetes)",
+            "price": "45",
+            "category": "cloudcomputing"
+        },
+        {
+            "course": "Ethical Hacking",
+            "imageSrc": "/images/courses/EthicalHacking.svg",
+            "profession": "Learn Ethical Hacking",
+            "price": "14,999",
+            "category": "cybersecurity"
+        }
+    ],
+    "MentorData": [
+        {
+            "name": "Founder & Lead Trainer",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy1.svg",
+            "imageAlt": "Front of men's Basic Tee in black.",
+            "color": "Suthan Keshav"
+        },
+        {
+            "name": "Senior Software Architect",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy2.svg",
+            "imageAlt": "Front of men's Basic Tee in black.",
+            "color": "Devendra Prasad"
+        },
+        {
+            "name": "Full Stack Developer ",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy3.svg",
+            "imageAlt": "Front of men's Basic Tee in black.",
+            "color": "Rajesh Patel"
+        },
+        {
+            "name": "UI/UX Designer",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy4.svg",
+            "imageAlt": "Front of men's Basic Tee in black.",
+            "color": "Sridharan"
+        },
+        {
+            "name": "Web Development / Web Design",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy5.svg",
+            "imageAlt": "Front of men's Basic Tee in black.",
+            "color": "Sasi Tharoor"
+        },
+        {
+            "name": "Head of Online Training",
+            "href": "#",
+            "imageSrc": "/images/mentor/girl1.svg",
+            "imageAlt": "Front of men's Basic Tee in black.",
+            "color": "Priya Dharshini"
+        }
+    ],
+    "TestimonialData": [
+        {
+            "profession": "UX/UI Designer",
+            "name": "Andrew Williams",
+            "imgSrc": "/images/testimonial/user-1.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+        },
+        {
+            "profession": "UX/UI Designer",
+            "name": "Cristian Doru Barin",
+            "imgSrc": "/images/testimonial/user-2.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+        },
+        {
+            "profession": "UX/UI Designer",
+            "name": "Tanzeel Ur Rehman",
+            "imgSrc": "/images/testimonial/user-3.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+        },
+        {
+            "profession": "UX/UI Designer",
+            "name": "Andrew Williams",
+            "imgSrc": "/images/testimonial/user-1.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+        }
+    ],
+    "FooterLinkData": [
+        {
+            "section": "Company",
+            "links": [
+                {
+                    "label": "Home",
+                    "href": "/#Home"
+                },
+                {
+                    "label": "Courses",
+                    "href": "/#Courses"
+                },
+                {
+                    "label": "Mentors",
+                    "href": "/#mentors-section"
+                },
+                {
+                    "label": "Testimonial",
+                    "href": "/#testimonial-section"
+                },
+                {
+                    "label": "Join",
+                    "href": "/#join-section"
+                },
+                {
+                    "label": "Contact Us",
+                    "href": "/#contact"
+                }
+            ]
+        },
+        {
+            "section": "Support",
+            "links": [
+                {
+                    "label": "Help center",
+                    "href": "/help"
+                },
+                {
+                    "label": "Terms of service",
+                    "href": "/terms"
+                },
+                {
+                    "label": "Legal",
+                    "href": "/legal"
+                },
+                {
+                    "label": "Privacy Policy",
+                    "href": "/privacy-policy"
+                },
+                {
+                    "label": "Status",
+                    "href": "/status"
+                }
+            ]
+        }
+    ]
+}
