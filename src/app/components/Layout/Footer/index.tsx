@@ -350,8 +350,8 @@ const Footer = () => {
       {/* Footer bottom (unchanged) */}
       <div className='py-3'>
         <h3 className='text-center text-white/60'>
-          @2013 - All Rights Reserved by{' '}
-          <Link href='https://dreamztouch.in/' target='_blank' className='hover:text-white'>
+          @2026 - All Rights Reserved by{' '}
+          <Link href='https://www.dreamztouch.in/' target='_blank' className='hover:text-white'>
             www.dreamztouch.in
           </Link>
         </h3>

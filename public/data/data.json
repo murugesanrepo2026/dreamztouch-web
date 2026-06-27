@@ -329,21 +329,21 @@
         },
         {
             "profession": "Data Scientist",
-            "name": "James Carter",
+            "name": "Vaishnavi",
             "imgSrc": "/images/testimonial/user-2.jpg",
             "starimg": "/images/testimonial/stars.png",
             "detail": "I transitioned from a non-tech background to Data Science thanks to this Python program. The modules on NumPy, Pandas, and Machine Learning algorithms were incredibly practical. I secured a Junior Data Scientist role within weeks of finishing the course."
         },
         {
             "profession": "Python Fullstack Developer",
-            "name": "Priya Patel",
+            "name": "Priya Rajesh",
             "imgSrc": "/images/testimonial/user-3.jpg",
             "starimg": "/images/testimonial/stars.png",
             "detail": "This Python Fullstack training covered Django, Flask, and React seamlessly. The hands-on capstone projects taught me how to build scalable web applications from scratch. I got placed as a Fullstack Developer at a top product-based company immediately after completion."
         },
         {
             "profession": "Full Stack Developer",
-            "name": "Michael Chen",
+            "name": "Michael Joseph",
             "imgSrc": "/images/testimonial/user-1.jpg",
             "starimg": "/images/testimonial/stars.png",
             "detail": "Becoming a Full Stack Developer felt overwhelming until I joined this course. Mastering Angular, Node.js, and MongoDB simultaneously was effortless with their structured curriculum and live mentor sessions. I am now handling enterprise-level projects confidently."
@@ -357,21 +357,21 @@
         },
         {
             "profession": "Cloud Engineer (GCP)",
-            "name": "Rahul Sharma",
+            "name": "Rajesh verma",
             "imgSrc": "/images/testimonial/user-3.jpg",
             "starimg": "/images/testimonial/stars.png",
             "detail": "This GCP course is a must for anyone wanting to master Google Cloud. The deep dives into BigQuery, Kubernetes (GKE), and IAM policies were top-tier. I now manage cloud infrastructure for a leading fintech company in Europe."
         },
         {
             "profession": "Azure Administrator",
-            "name": "Laura Wilson",
+            "name": "Dinesh kumar",
             "imgSrc": "/images/testimonial/user-1.jpg",
             "starimg": "/images/testimonial/stars.png",
             "detail": "The Microsoft Azure training here was simply brilliant. Mastering Azure Data Factory, Virtual Machines, and Active Directory gave me the competitive edge I needed. I am now working as a Cloud Administrator for a global healthcare enterprise."
         },
         {
             "profession": "Security Analyst (Ethical Hacking)",
-            "name": "David Kim",
+            "name": "David Jhonson",
             "imgSrc": "/images/testimonial/user-2.jpg",
             "starimg": "/images/testimonial/stars.png",
             "detail": "The Ethical Hacking course was intense, thrilling, and incredibly rewarding! Learning penetration testing, network security, and vulnerability assessment with live labs prepared me perfectly. I am now a Security Analyst protecting critical corporate assets."
