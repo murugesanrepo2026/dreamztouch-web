@@ -9,12 +9,10 @@ import withBasePath from '@/utils/basePath'
 import TestimonialSkeleton from '../../Skeleton/Testimonial'
 import ReviewModal from './ReviewModal'
 
-// CAROUSEL SETTINGS
-
 const Testimonial = () => {
     const [testimonial, setTestimonial] = useState<TestimonialType[]>([])
     const [loading, setLoading] = useState(true)
-    const [isModalOpen, setIsModalOpen] = useState(false) 
+    const [isModalOpen, setIsModalOpen] = useState(false)
 
     useEffect(() => {
         const fetchData = async () => {
@@ -55,6 +53,7 @@ const Testimonial = () => {
             },
         ],
     }
+
     return (
         <section id='testimonial-section' className='bg-cream'>
             <div className='container'>
@@ -63,7 +62,10 @@ const Testimonial = () => {
                         What Our Happy <br /> Students Says
                     </h2>
                     <div>
-                        <button className='bg-transparent cursor-pointer hover:bg-primary text-primary font-semibold hover:text-white py-3 px-4 border border-primary hover:border-transparent rounded-sm duration-300'>
+                        <button
+                            onClick={() => setIsModalOpen(true)}   // 👈 Open modal
+                            className='bg-transparent cursor-pointer hover:bg-primary text-primary font-semibold hover:text-white py-3 px-4 border border-primary hover:border-transparent rounded-sm duration-300'
+                        >
                             Give Your Review
                         </button>
                     </div>
@@ -106,6 +108,12 @@ const Testimonial = () => {
                         ))}
                 </Slider>
             </div>
+
+            {/* Render the modal */}
+            <ReviewModal
+                isOpen={isModalOpen}
+                onClose={() => setIsModalOpen(false)}
+            />
         </section>
     )
 }

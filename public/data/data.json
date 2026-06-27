@@ -321,32 +321,60 @@
     ],
     "TestimonialData": [
         {
-            "profession": "UX/UI Designer",
-            "name": "Andrew Williams",
+            "profession": "Data Analyst",
+            "name": "Rubina",
             "imgSrc": "/images/testimonial/user-1.jpg",
             "starimg": "/images/testimonial/stars.png",
-            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+            "detail": "The Data Analytics course was a complete game-changer for my career. Mastering SQL, Python, and Power BI through real-world projects gave me the confidence to crack my interviews. I am now working as a Data Analyst at Accenture, applying these skills daily!"
         },
         {
-            "profession": "UX/UI Designer",
-            "name": "Cristian Doru Barin",
+            "profession": "Data Scientist",
+            "name": "James Carter",
             "imgSrc": "/images/testimonial/user-2.jpg",
             "starimg": "/images/testimonial/stars.png",
-            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+            "detail": "I transitioned from a non-tech background to Data Science thanks to this Python program. The modules on NumPy, Pandas, and Machine Learning algorithms were incredibly practical. I secured a Junior Data Scientist role within weeks of finishing the course."
         },
         {
-            "profession": "UX/UI Designer",
-            "name": "Tanzeel Ur Rehman",
+            "profession": "Python Fullstack Developer",
+            "name": "Priya Patel",
             "imgSrc": "/images/testimonial/user-3.jpg",
             "starimg": "/images/testimonial/stars.png",
-            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+            "detail": "This Python Fullstack training covered Django, Flask, and React seamlessly. The hands-on capstone projects taught me how to build scalable web applications from scratch. I got placed as a Fullstack Developer at a top product-based company immediately after completion."
         },
         {
-            "profession": "UX/UI Designer",
-            "name": "Andrew Williams",
+            "profession": "Full Stack Developer",
+            "name": "Michael Chen",
             "imgSrc": "/images/testimonial/user-1.jpg",
             "starimg": "/images/testimonial/stars.png",
-            "detail": "I have been a Junior Graphic Designer for more then 10 years. Some things are problem that I had and teach how to solve them. That's why this course is so great!"
+            "detail": "Becoming a Full Stack Developer felt overwhelming until I joined this course. Mastering Angular, Node.js, and MongoDB simultaneously was effortless with their structured curriculum and live mentor sessions. I am now handling enterprise-level projects confidently."
+        },
+        {
+            "profession": "Cloud Architect (AWS)",
+            "name": "Emily Johnson",
+            "imgSrc": "/images/testimonial/user-2.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "The AWS certification training was outstanding! Hands-on labs with EC2, S3, Lambda, and VPC made cloud computing concepts crystal clear. I cleared my AWS Solutions Architect exam and received a well-deserved promotion at my firm."
+        },
+        {
+            "profession": "Cloud Engineer (GCP)",
+            "name": "Rahul Sharma",
+            "imgSrc": "/images/testimonial/user-3.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "This GCP course is a must for anyone wanting to master Google Cloud. The deep dives into BigQuery, Kubernetes (GKE), and IAM policies were top-tier. I now manage cloud infrastructure for a leading fintech company in Europe."
+        },
+        {
+            "profession": "Azure Administrator",
+            "name": "Laura Wilson",
+            "imgSrc": "/images/testimonial/user-1.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "The Microsoft Azure training here was simply brilliant. Mastering Azure Data Factory, Virtual Machines, and Active Directory gave me the competitive edge I needed. I am now working as a Cloud Administrator for a global healthcare enterprise."
+        },
+        {
+            "profession": "Security Analyst (Ethical Hacking)",
+            "name": "David Kim",
+            "imgSrc": "/images/testimonial/user-2.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "The Ethical Hacking course was intense, thrilling, and incredibly rewarding! Learning penetration testing, network security, and vulnerability assessment with live labs prepared me perfectly. I am now a Security Analyst protecting critical corporate assets."
         }
     ],
     "FooterLinkData": [
