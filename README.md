@@ -1,4 +1,4 @@
-# Si Educational Free NextJs Landing Page Template
+# Dreamz Touch Technologies Free NextJs Landing Page Template
 
 #### Preview
 
